@@ -1,7 +1,7 @@
 # DeadlineAvoider
 
 ## live link is :
-https://dishu5312.github.io/DeadlineAvoider/
+https://rahulmahajan01.github.io/Deadline-Avoider/
 
 ![alt text](https://github.com/dishu5312/DeadlineAvoider/blob/main/dataScience.png?raw=true)
 
